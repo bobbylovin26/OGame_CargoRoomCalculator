@@ -74,6 +74,7 @@ function calculateCargoRoom() {
 		total = metal + cristal + deut;
 
 		console.log(metal + ' ' + cristal + ' ' + deut);
+		console.log(total);
 
 		//calculate needed cargos
 
